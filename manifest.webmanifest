@@ -1,0 +1,8 @@
+{
+  "name": "Illinois Tollway Driving Log",
+  "short_name": "Driving Log",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e7ebf0",
+  "theme_color": "#1b4d7a"
+}
